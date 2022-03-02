@@ -1,6 +1,6 @@
 # FunMall - 开源SaaS商城系统基于[Funboot](https://github.com/funson86/funboot) & Yii2
 
-> FunMall内置在Funboot中，在
+> FunMall内置在Funboot中，Funmall项目中仅提供样例演示数据和文档，架构相关请移至Funboot项目
 
 
 ### 问题反馈
@@ -9,7 +9,7 @@
 
 ### 在线Demo
 
-* [FunMall商城系统](https://github.com/funson86/funmall) 演示地址：[https://funmall.funboot.net/](https://funmall.funboot.net/)  [说明&模板](https://github.com/funson86/funmall)
+* [FunMall商城系统](https://github.com/funson86/funmall) 演示地址：[https://funmall.funboot.net/](https://funmall.funboot.net/)
 * [FunMall后台](https://github.com/funson86/funboot) 演示地址：[https://www.funboot.net/backend/](https://www.funboot.net/backend/) test 123456
 
 ### 功能特性
@@ -21,7 +21,7 @@
 - [x] 商品参数
 - [x] 商品标签
 - [x] 分类和商品Url支持搜索引擎seo优化
-- [x] 在线支付：已内置Paypal支付
+- [x] 在线支付：已内置Paypal支付 [文档](https://github.com/funson86/funmall/blob/master/docs/guide_zh-CN/funmall-paypal.md)
 - [x] 自适应各种设备
 - [x] 设计简洁，易于二次开发和扩展
 - [x] 优惠券 & 促销码
